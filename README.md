@@ -2,7 +2,7 @@
 - 👀 I’m interested in real-word application of Artificial Intelligence and Data Science to Quantitative Finance, Clinical Medicine, Biology , Business 
      and every over field where there are data to explore!
 - 🌱 I’m currently learning Statistical Science
-- 💞️ I’m looking to collaborate on Data Science projects that could improve and expand my knowledge about 
+- 💞️ I’m looking to collaborate on Data Science projects that could improve and expand my knowledge about it
 - 📫 How to reach me luca.roseo97@gmail.com
 
 <!---
