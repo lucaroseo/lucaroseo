@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lucaroseo
-- 👀 I’m interested in real-word application of Artificial Intelligence and Data Science to Quantitative Finance, Clinical Medicine, Biology , Business 
+- 👀 I’m interested in real-word applications of Artificial Intelligence and Data Science to Quantitative Finance, Clinical Medicine, Biology , Business 
      and every over field where there are data to explore!
-- 🌱 I’m currently learning Statistical Science
-- 💞️ I’m looking to collaborate on Data Science projects that could improve and expand my knowledge about it
+- 🌱 I’m currently learning Statistical Science at the University of Turin
+- 💞️ I’m looking to collaborate on Data Science projects that could improve and expand my knowledge
 - 📫 How to reach me luca.roseo97@gmail.com
 
 <!---
